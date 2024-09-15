@@ -2,13 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-  --primary:#272727;
-  --secondary:#cbddd1;
-  --text:#f6f6e9;
-}
+
+
+
+
+
 
 
 
